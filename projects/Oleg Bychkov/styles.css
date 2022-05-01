@@ -1,0 +1,52 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Fira Sans", sans-serif;
+}
+header {
+  background-color: #5fd2b5;
+}
+nav {
+  background-color: #35d2ab;
+}
+footer {
+  background-color: #00a67c;
+}
+main {
+  background-image: url("images/фон.jpg");
+}
+.main {
+  background-color: white;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding: 10px;
+}
+nav a {
+  padding-right: 6%;
+  padding-left: 6%;
+  border-left: 2px solid white;
+  border-right: 2px solid white;
+  color: white;
+}
+b {
+  color: lightgreen;
+}
+p {
+  font-size: 130%;
+  padding: 5px;
+}
+li {
+  margin-left: 10px;
+  font-size: 130%;
+}
+ul img {
+  border-radius: 10px;
+}
+a {
+  color: #35d2ab;
+  text-decoration: none;
+}
+.block {
+  border-top: 3px solid whitesmoke;
+  border-bottom: 3px solid whitesmoke;
+}

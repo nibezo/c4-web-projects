@@ -1,0 +1,90 @@
+h1 {
+  color: #af66d5;
+  background-color: #4a036f;
+}
+
+p {
+  color: #af66d5;
+  background-color: #4a036f;
+}
+
+a {
+  color: #4a036f;
+  background-color: #af66d5;
+}
+
+p.venti {
+  font-size: 30px;
+}
+
+p.dop {
+  font-size: 30px;
+  color: #af66d5;
+  background-color: #4a036f;
+}
+
+h2 {
+  color: #4a036f;
+  background-color: #af66d5;
+  font-size: 30px;
+}
+
+.albedo {
+  font-size: 30px;
+  color: #ffffe0;
+  background-color: #ffd700;
+}
+
+.klee {
+  font-size: 30px;
+  color: #f08080;
+  background-color: #ff0000;
+}
+
+.kokomi {
+  font-size: 30px;
+  color: #e0ffff;
+  background-color: #00ffff;
+}
+
+.raiden {
+  font-size: 30px;
+  color: #ee82ee;
+  background-color: #4b0082;
+}
+
+.ventilator {
+  font-size: 30px;
+  color: #b0e0e6;
+  background-color: #4682b4;
+}
+
+.rosary {
+  font-size: 30px;
+  color: #000000;
+  background-color: #800000;
+}
+
+.sucrose {
+  font-size: 30px;
+  color: #c0dfc0;
+  background-color: #00ff7f;
+}
+
+.xiaomi {
+  font-size: 30px;
+  color: #008080;
+  background-color: #20b2aa;
+}
+
+.yaemiko {
+  font-size: 30px;
+  color: #c71585;
+  background-color: #ff69b4;
+}
+
+.zhongli {
+  font-size: 30px;
+  color: rgb(109, 39, 13);
+  background-color: #ffd700;
+}

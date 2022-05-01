@@ -1,0 +1,23 @@
+p {
+  color: orangered;
+  font-size: 30px;
+}
+h1 {
+  color: palegreen;
+}
+a {
+  font-size: 25px;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.korgy {
+  margin-bottom: 0px;
+}
+
+body {
+  background-color: #ffc224;
+}
